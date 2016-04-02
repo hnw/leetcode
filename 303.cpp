@@ -22,7 +22,6 @@ public:
     }
 };
 
-/*
 int main() {
     std::vector<int> v = {-2, 0, 3, -5, 2, -1};
     NumArray numArray(v);
@@ -30,4 +29,3 @@ int main() {
     std::cout << numArray.sumRange(2, 5) << std::endl; // -> -1
     std::cout << numArray.sumRange(0, 5) << std::endl; // -> -3
 }
-*/
